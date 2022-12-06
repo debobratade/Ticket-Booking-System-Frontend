@@ -1,0 +1,19 @@
+.event-list{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.event-list ul li{
+    display: inline-block;
+    border: 2px solid skyblue;
+    padding: 5px;
+    width: 150px;
+}
+
+.event-list ul{
+    margin:0px;
+}
+.event-list li{
+    height: 20px;
+}
+
